@@ -11,6 +11,6 @@ int main()
     float temperatura;
     cout << "Digite a temperatura em graus Celsius" << endl;
     cin >> temperatura;
-    cout << "Temperatura em graus Fahrenheit: " << temperatura * (9.0 / 5.0) + 32;
+    cout << "Temperatura em graus Fahrenheit: " << temperatura * (9.0 / 5.0) + 32 << endl;
     return 0;
 }

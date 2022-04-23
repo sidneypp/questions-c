@@ -7,6 +7,6 @@ int main()
     float numero;
     cout << "Digite um número real" << endl;
     cin >> numero;
-    cout << "Número digitado: " << numero;
+    cout << "Número digitado: " << numero << endl;
     return 0;
 }

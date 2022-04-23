@@ -10,6 +10,6 @@ int main()
     float massa;
     cout << "Digite a massa em quilogramas" << endl;
     cin >> massa;
-    cout << "Massa em libras: " << massa / 0.45;
+    cout << "Massa em libras: " << massa / 0.45 << endl;
     return 0;
 }

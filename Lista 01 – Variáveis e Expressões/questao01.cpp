@@ -7,6 +7,6 @@ int main()
     int numero;
     cout << "Digite um número inteiro" << endl;
     cin >> numero;
-    cout << "Número digitado: " << numero;
+    cout << "Número digitado: " << numero << endl;
     return 0;
 }

@@ -10,6 +10,6 @@ int main()
     float distancia;
     cout << "Digite a distancia em milhas" << endl;
     cin >> distancia;
-    cout << "Distancia em quilometros: " << 1.61 * distancia;
+    cout << "Distancia em quilometros: " << 1.61 * distancia << endl;
     return 0;
 }

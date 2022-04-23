@@ -10,6 +10,6 @@ int main()
     float velocidade;
     cout << "Digite a velocidade em m/s" << endl;
     cin >> velocidade;
-    cout << "Velocidade em km/h: " << velocidade * 3.6;
+    cout << "Velocidade em km/h: " << velocidade * 3.6 << endl;
     return 0;
 }

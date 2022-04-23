@@ -11,6 +11,6 @@ int main()
     float angulo;
     cout << "Digite o angulo em graus" << endl;
     cin >> angulo;
-    cout << "Angulo em radianos: " << angulo * PI / 180;
+    cout << "Angulo em radianos: " << angulo * PI / 180 << endl;
     return 0;
 }

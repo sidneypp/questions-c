@@ -11,6 +11,6 @@ int main()
     float comprimento;
     cout << "Digite o comprimento em centimetros" << endl;
     cin >> comprimento;
-    cout << "Comprimento em polegadas: " << comprimento / 2.54;
+    cout << "Comprimento em polegadas: " << comprimento / 2.54 << endl;
     return 0;
 }

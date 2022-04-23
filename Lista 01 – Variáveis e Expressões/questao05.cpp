@@ -7,6 +7,6 @@ int main()
     float numero;
     cout << "Digite um número real" << endl;
     cin >> numero;
-    cout << "A quinta parte do número digitado: " << numero/5;
+    cout << "A quinta parte do número digitado: " << numero/5 << endl;
     return 0;
 }

@@ -11,6 +11,6 @@ int main()
     float volume;
     cout << "Digite o volume em litros" << endl;
     cin >> volume;
-    cout << "Volume em metros cubicos: " << volume / 1000;
+    cout << "Volume em metros cubicos: " << volume / 1000 << endl << endl;
     return 0;
 }
