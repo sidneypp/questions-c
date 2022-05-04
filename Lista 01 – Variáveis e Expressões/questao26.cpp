@@ -11,6 +11,6 @@ int main()
     float area;
     cout << "Digite a area em metros quadrados" << endl;
     cin >> area;
-    cout << "area em hectares: " << area * 0.0001 << endl;
+    cout << "Area em hectares: " << area * 0.0001 << endl;
     return 0;
 }
